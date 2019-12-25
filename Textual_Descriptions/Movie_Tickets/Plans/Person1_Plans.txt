@@ -1,0 +1,18 @@
+0,*,INITIALIZE
+1,*,(search theater)
+2,*,(select)
+3,*,(choose date)
+4,*,(show time)
+5,*,(find friends)
+6,*,(specify)
+7,*,(choose seats)
+8,*,(select)
+9,*,(input name card)
+10,*,(input cvc)
+11,*,(input name)
+12,*,(input email)
+13,*,(confirm payment)
+14,*,(take confirmation)
+15,*,(download)
+16,*,(save)
+17,*,FINISHED

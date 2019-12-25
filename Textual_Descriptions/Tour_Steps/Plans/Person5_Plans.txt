@@ -1,0 +1,15 @@
+0,*,INITIALIZE
+1,*,(list destination friends)
+2,*,(chose places)
+3,*,(make way travel)
+4,*,(list spot)
+5,*,(book ticket travel)
+6,*,(book accommodation)
+7,*,(check id)
+8,*,(check validity)
+9,*,(carry cash)
+10,*,(check phone)
+10,*,(check internet)
+10,*,(update applications)
+11,*,(print ticket)
+12,*,FINISHED

@@ -1,0 +1,17 @@
+0,*,INITIALIZE
+1,*,(check passport)
+2,*,(choose destination)
+3,*,(see)
+4,*,(do)
+5,*,(check requirements)
+6,*,(confirm visa)
+7,*,(book flights)
+8,*,(book accommodation)
+9,*,(check phone)
+10,*,(check internet)
+11,*,(check withdrawal)
+12,*,(plan airport)
+12,*,(paln hotel)
+13,*,(confirm flights)
+14,*,(check in)
+15,*,FINISHED

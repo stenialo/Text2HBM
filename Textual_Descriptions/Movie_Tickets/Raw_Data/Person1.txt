@@ -1,0 +1,13 @@
+Search for the nearest movie theatre.
+Select the movie.
+Choose the date when you want to see it.
+Select a showtime.
+Ask friends if they want to go.
+Specify the number of tickets.
+Choose your seats.
+Select your payment method.
+Input your card number, cvc, name, email id for payment.
+Confirm your payment.
+Take a screenshot or make a PDF page of final confirmation.
+Download the ticket and save it.
+Put your email id, if there is any option for sent any confirmation mail and ticket.

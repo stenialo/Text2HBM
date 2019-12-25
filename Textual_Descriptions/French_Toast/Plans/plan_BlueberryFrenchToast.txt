@@ -1,0 +1,18 @@
+0,*,INITIALIZE
+1,*,(prepare batter)
+2,*,(whisk milk bowl)
+3,*,(whisk eggs bowl)
+4,*,(whisk flour bowl)
+5,*,(whisk vanilla bowl)
+6,*,(whisk sugar bowl)
+7,*,(whisk salt bowl)
+8,*,(coat bread mixture)
+9,*,(pour bread dish)
+10,*,(top nuts pan)
+11,*,(top cheese pan)
+12,*,(top blueberries pan)
+13,*,(chill mixture refrigerator)
+14,*,(heat oven)
+15,*,(bake)
+16,*,(garnish dish sugar)
+17,*,FINISHED

@@ -1,0 +1,15 @@
+0,*,INITIALIZE
+1,*,(take bowl)
+2,*,(add butter)
+3,*,(add sugar)
+4,*,(add milk)
+5,*,(add vanilla)
+6,*,(add powder)
+7,*,(add flour)
+8,*,(whisk combined)
+9,*,(mix blueberries)
+10,*,(pour mug)
+11,*,(fill mug)
+12,*,(microwave high)
+13,*,(serve cake)
+14,*,FINISHED

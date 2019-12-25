@@ -1,0 +1,16 @@
+0,*,INITIALIZE
+1,*,(ensure chicken thickness)
+2,*,(pound chicken)
+3,*,(season salt)
+4,*,(season pepper)
+5,*,(season seasoning)
+6,*,(heat oil)
+7,*,(heat butter)
+8,*,(add chicken pan)
+9,*,(cook chicken)
+10,*,(flip chicken)
+11,*,(cook chicken)
+12,*,(check temperature)
+13,*,(remove chicken pan)
+14,*,(rest)
+15,*,FINISHED

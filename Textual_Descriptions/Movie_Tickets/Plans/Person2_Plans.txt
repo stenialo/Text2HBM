@@ -1,0 +1,16 @@
+0,*,INITIALIZE
+1,*,(select movie)
+2,*,(go website)
+3,*,(login)
+4,*,(fix date)
+5,*,(select showtime)
+6,*,(select ticket number)
+7,*,(choose seat)
+8,*,(put code)
+9,*,(select payment)
+10,*,(input payment)
+11,*,(check details)
+12,*,(save confirmation)
+13,*,(download)
+14,*,(make reminder)
+15,*,FINISHED

@@ -1,0 +1,38 @@
+Tools
+
+Case.
+Radiator.
+Cooling block.
+Pump.
+Reservoir.
+Barb fittings.
+Tubing.
+Clamps.
+Liquid.
+
+
+Steps 
+
+First, attach the reservoir, radiator, pump, and motherboard to the empty case. 
+Mount the reservoir into a free 5.25-inch drive bay, and position the radiator to straddle the 120mm fan on the roof of the case. 
+The pump is small, but lacks mounting screws, so use some Velcro tape to keep it snug and secure at the base of our 5.25-inch drive bays.
+Attach the tubing to the cpu water block before you mount it onto the motherboard. 
+The 7/16-inch tubing we chose for our 1/2-inch barbs is going to prove its worth here. 
+Once you've attached the 1/2-inch barbs to the block, slide the tubing onto the protruding ends. 
+It will take a fair bit of effort, but you will be hard-pressed to find a tighter seal. If you can not quite get the tubing around the barb, try heating the end with a blow dryer. 
+Once you have a tight seal around the barbs on your cpu block, mount the block onto your motherboard.
+The next step is to get that tubing connected to our pump. 
+Attach a pair of barbs to the inlet and outlet ends of the pump.
+Guide the tubing from the cpu water block down to the pump, taking care to bend the tubing as little as possible.
+Once you have gauged an appropriate length that leaves a fair bit of flexing room, use a sharp blade to cut the tubing, and then attach it to one end of the pump.
+We will repeat this step to connect the pump to the reservoir, the reservoir to the radiator, and then back to the cpu.
+Grab the power supply, and look at the large 24 or 20 pin atx connector. 
+We are interested only in the solitary green one, and in one of the many black ones.
+We are going to be closing the circuit, much like the motherboard switch would. we are using a paper clip.
+Fill your reservoir with distilled water; to prevent spillage, you may need to slide it outside of your case a bit or pour the water via a funnel.
+Be sure that the only thing connected to the power supply is the pump. 
+Bend your paper clip into a "U" shape, and slide one end into the green wire's connector, and the other into a black wire's connector.
+Flip the power supply switch on, and it should hum to life, triggering the pump, which will begin circulating water. 
+Once your reservoir is half empty, turn off the power, and fill up the reservoir again.
+Turn the power on again and observe your machine. 
+If water is circulating and your parts are still dry after running for a while, you are done.

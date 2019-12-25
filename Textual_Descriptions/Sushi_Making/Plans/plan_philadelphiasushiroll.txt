@@ -1,0 +1,14 @@
+0,*,INITIALIZE
+1,*,(cook rice)
+2,*,(cut salmon slices)
+3,*,(put nori mat)
+4,*,(cover rice mat)
+5,*,(push)
+6,*,(turn)
+7,*,(open)
+8,*,(spread cheese nori)
+9,*,(roll sushi)
+10,*,(lay salmon)
+11,*,(wrap salmon roll)
+12,*,(cut roll philadelphia)
+13,*,FINISHED

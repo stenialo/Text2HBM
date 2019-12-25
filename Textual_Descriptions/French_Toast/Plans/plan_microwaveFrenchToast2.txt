@@ -1,0 +1,13 @@
+0,*,INITIALIZE
+1,*,(whisk milk bowl)
+2,*,(whisk eggs bowl)
+3,*,(whisk vanilla bowl)
+4,*,(whisk cinnamon bowl)
+5,*,(soak bread mixture)
+6,*,(flip bread)
+7,*,(soak bread mixture)
+8,*,(place bread microwave)
+9,*,(set microwave high)
+10,*,(repeat slices)
+11,*,(garnish syrup)
+12,*,FINISHED

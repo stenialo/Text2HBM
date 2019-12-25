@@ -1,0 +1,14 @@
+Select the movie running in theaters.
+Go to the website of movie theater.
+Login for premier members.
+Fix the movie date.
+Select the comfort showtime.
+Select the number of tickets.
+Choose the seat position.
+Put discount code for the final price.
+Select the payment method.
+Input secured payment way.
+Check all the given details.
+Save the  final confirmation.
+Download the tickets.
+Make a reminder on that day.

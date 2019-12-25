@@ -1,0 +1,15 @@
+0,*,INITIALIZE
+1,*,(heat oven)
+2,*,(beat butter)
+3,*,(beat sugar)
+4,*,(place butter bowl)
+5,*,(place sugar bowl)
+6,*,(add eggs)
+7,*,(add vanilla)
+8,*,(mix ingredients)
+9,*,(stir raisins)
+10,*,(scoop cookies)
+11,*,(bake cookies)
+12,*,(place oven)
+13,*,(bake)
+14,*,FINISHED

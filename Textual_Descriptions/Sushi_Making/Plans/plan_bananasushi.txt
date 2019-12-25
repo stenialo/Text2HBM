@@ -1,0 +1,12 @@
+0,*,INITIALIZE
+1,*,(cut edges bread)
+2,*,(spread nutella bread)
+3,*,(spread butter bread)
+4,*,(sprinkle sugar bread)
+5,*,(cut banana)
+6,*,(place banana bread)
+7,*,(roll)
+8,*,(cover roll honey)
+9,*,(slice)
+10,*,(serve)
+11,*,FINISHED

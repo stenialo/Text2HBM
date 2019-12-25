@@ -1,0 +1,16 @@
+0,*,INITIALIZE
+1,*,(heat oven)
+2,*,(melt margarine pan)
+3,*,(sprinkle sugar pan)
+4,*,(sprinkle cinnamon pan)
+5,*,(mix eggs)
+6,*,(mix salt)
+7,*,(mix orange juice)
+8,*,(mix orange rind)
+9,*,(dip bread mixture)
+10,*,(place bread pan)
+11,*,(bake)
+12,*,(turn)
+13,*,(bake)
+14,*,(serve)
+15,*,FINISHED

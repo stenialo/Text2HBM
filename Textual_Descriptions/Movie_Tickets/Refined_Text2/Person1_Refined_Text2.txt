@@ -1,0 +1,16 @@
+Search the nearest movie theater.
+Select the movie.
+Choose the fix date.
+Select flexible show time.
+Find some friends to enjoy together.
+Specify number of tickets.
+Choose comfortable seats.
+Select easiest payment method.
+Input the credit card number.
+Input the cvc number.
+Input full name as in card.
+Input the valid email id.
+Confirm the payment process.
+Take a copy of final ticket confirmation.
+Download the final tickets.
+Save the tickets.

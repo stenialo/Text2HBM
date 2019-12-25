@@ -1,0 +1,11 @@
+0,*,INITIALIZE
+1,*,(decide place)
+2,*,(fix length)
+3,*,(make list)
+4,*,(check deals)
+5,*,(book flight)
+6,*,(plan activities)
+7,*,(book accommodation)
+8,*,(check documents)
+9,*,(pack)
+10,*,FINISHED

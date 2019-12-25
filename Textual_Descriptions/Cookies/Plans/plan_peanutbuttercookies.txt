@@ -1,0 +1,13 @@
+0,*,INITIALIZE
+1,*,(put milk saucepan)
+2,*,(put sugar saucepan)
+3,*,(place saucepan stove)
+4,*,(turn burner medium)
+5,*,(boil)
+6,*,(add vanilla saucepan)
+7,*,(add peanut saucepan)
+8,*,(add salt saucepan)
+9,*,(stir oatmeal)
+10,*,(scoop cookies sheet)
+11,*,(cool cookies)
+12,*,FINISHED

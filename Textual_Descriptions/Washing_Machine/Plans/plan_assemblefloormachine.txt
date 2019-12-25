@@ -1,0 +1,15 @@
+0,*,INITIALIZE
+1,*,(put safety)
+2,*,(check batteries)
+3,*,(check level batteries)
+4,*,(fill batteries)
+5,*,(check filters)
+6,*,(check squeegee)
+7,*,(check hose)
+8,*,(check hose)
+9,*,(check brushes)
+10,*,(install brushes floor)
+11,*,(install pads floor)
+12,*,(check rubber)
+13,*,(fill tank)
+14,*,FINISHED

@@ -1,0 +1,18 @@
+0,*,INITIALIZE
+1,*,(heat nonstick)
+2,*,(put heat medium)
+3,*,(take bowl)
+4,*,(mix milk bowl)
+5,*,(mix egg bowl)
+6,*,(mix syrup bowl)
+7,*,(mix vanilla bowl)
+8,*,(melt butter skillet)
+9,*,(dip bread mixture)
+10,*,(place bread skillet)
+11,*,(remove toast pan)
+12,*,(place toast plate)
+13,*,(cool toast plate)
+14,*,(add berries toast)
+15,*,(add coconut toast)
+16,*,(serve)
+17,*,FINISHED

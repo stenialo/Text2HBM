@@ -1,0 +1,39 @@
+Attach the reservoir to the empty case.
+Attach the radiator to the case.
+Attach the pump to the case.
+Attach motherboard to the case.
+Mount reservoir into 5 inch drive bay.
+Position radiator to straddle 120 millimeter fan on the roof of case.
+Use some velcro tape to keep secure.
+Attach tubing to the cpu water block.
+Attached half inch barbs to the block.
+Mount block onto motherboard.
+Attach a pair of barbs to the inlet ends of pump.
+Attach a pair of barbs to the outlet ends of pump.
+Guide tubing from the cpu water block down to pump.
+Take care to bend tubing as little as possible.
+Use sharp blade.
+Cut the tubing.
+Attach tubing to one end of the pump.
+Connect the pump to the reservoir.
+Connect reservoir to the radiator.
+Connect radiator to the cpu.
+Grab the power supply.
+Look at large 24 or 20 pin atx connector.
+Interested in green.
+Interested in one of many black.
+Close the circuit.
+Use paper clip.
+Fill reservoir with distilled water.
+Check the power supply is connected to pump.
+Bend paper clip into "U" shape.
+Slide the one end into green wire's connector.
+Slide the other end into black wire's connector.
+Flip the power supply switch on.
+Trigger the pump.
+Turn the power off when reservoir is half empty.
+Fill up the reservoir.
+Turn the power on.
+Observe machine.
+Water is circulating.
+Parts are dry.

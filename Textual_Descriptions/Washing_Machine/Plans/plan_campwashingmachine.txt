@@ -1,0 +1,13 @@
+0,*,INITIALIZE
+1,*,(find barrel)
+2,*,(purchase plunger)
+3,*,(cut hole lid)
+4,*,(decorate)
+5,*,(fill machine water)
+6,*,(fill machine clothes)
+7,*,(fill machine detergent)
+8,*,(start plunging)
+9,*,(remove lid)
+10,*,(check clothing)
+11,*,(hang dry)
+12,*,FINISHED

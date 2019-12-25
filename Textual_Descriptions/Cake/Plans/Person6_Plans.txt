@@ -1,0 +1,18 @@
+0,*,INITIALIZE
+1,*,(take bowl)
+2,*,(add butter)
+3,*,(add sugar)
+4,*,(add eggs)
+5,*,(add milk)
+6,*,(mix)
+7,*,(beat)
+8,*,(add flour)
+9,*,(add baking powder)
+10,*,(mix)
+11,*,(blend)
+12,*,(pour mixture bowl)
+13,*,(bake bowl)
+14,*,(cool bowl)
+15,*,(cut wedges)
+16,*,(serve)
+17,*,FINISHED

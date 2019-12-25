@@ -1,0 +1,10 @@
+0,*,INITIALIZE
+1,*,(remove mildew seal)
+2,*,(use vinegar)
+3,*,(use sponge)
+4,*,(pour vinegar drum)
+5,*,(mix water well)
+6,*,(mix soda well)
+7,*,(run cycle water)
+8,*,(use rag wiping)
+9,*,FINISHED

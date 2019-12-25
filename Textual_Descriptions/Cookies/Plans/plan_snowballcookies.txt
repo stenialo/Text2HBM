@@ -1,0 +1,16 @@
+0,*,INITIALIZE
+1,*,(turn-on oven)
+2,*,(prepare workstation)
+3,*,(heat oven)
+4,*,(cream butter)
+5,*,(cream sugar)
+6,*,(cream salt)
+7,*,(stir egg)
+8,*,(stir vanilla)
+9,*,(add flour)
+10,*,(add pecans)
+11,*,(add chips)
+12,*,(shape cookies)
+13,*,(bake cookies)
+14,*,(roll cookies sugar)
+15,*,FINISHED

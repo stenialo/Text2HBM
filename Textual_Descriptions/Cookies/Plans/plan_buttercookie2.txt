@@ -1,0 +1,16 @@
+0,*,INITIALIZE
+1,*,(cream butter bowl)
+2,*,(cream sugar bowl)
+3,*,(beat egg)
+4,*,(stir vanilla)
+5,*,(combine flour salt)
+6,*,(stir sugar)
+7,*,(cover dough)
+8,*,(chill dough)
+9,*,(chill cookie sheets)
+10,*,(heat oven)
+11,*,(press dough sheets)
+12,*,(bake oven)
+13,*,(remove from sheets)
+14,*,(cool)
+15,*,FINISHED

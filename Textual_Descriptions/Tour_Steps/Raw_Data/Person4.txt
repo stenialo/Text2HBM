@@ -1,0 +1,13 @@
+List some destinations.
+Check the lowest travel cost according to the list and book the ticket.
+Mark the most popular place.
+Book accommodation close to the city centre.
+Mark some most popular local food store.
+Book museum ticket online.
+Book online car for hotel to airport and airport to hotel.
+Check Internet and card access.
+Take some cash. 
+Check id card and passport.
+Pack all necessary items.
+Weight the luggage.
+Print Ticket.

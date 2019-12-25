@@ -1,0 +1,11 @@
+0,*,INITIALIZE
+1,*,(heat oven)
+2,*,(measure ingredients)
+3,*,(put ingredients bowl)
+4,*,(mix fork)
+5,*,(mash fork)
+6,*,(take cookie-sheet)
+7,*,(put dough center)
+8,*,(bake)
+9,*,(cool)
+10,*,FINISHED

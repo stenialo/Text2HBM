@@ -1,0 +1,13 @@
+0,*,INITIALIZE
+1,*,(make egg batter)
+2,*,(take blender)
+3,*,(separate bread)
+4,*,(separate butter)
+5,*,(combine ingredients blender)
+6,*,(heat butter skillet)
+7,*,(dip bread batter)
+8,*,(allow bread mixture)
+9,*,(cook bread skillet)
+10,*,(add fruit)
+11,*,(serve)
+12,*,FINISHED

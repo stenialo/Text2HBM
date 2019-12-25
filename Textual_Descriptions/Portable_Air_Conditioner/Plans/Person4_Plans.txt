@@ -1,0 +1,11 @@
+0,*,INITIALIZE
+1,*,(read installation)
+2,*,(select place)
+3,*,(place conditioner outlet)
+4,*,(place conditioner window)
+5,*,(check window kit)
+6,*,(attach hose conditioner)
+7,*,(secure window adapter)
+8,*,(secure exhaust hose)
+9,*,(test)
+10,*,FINISHED

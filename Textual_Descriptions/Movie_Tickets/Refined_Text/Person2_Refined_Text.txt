@@ -1,0 +1,15 @@
+Select your movie.
+Go to the website of the movie theatre.
+Login, if you are member.
+Select the date.
+Select the showtime.
+Select the number of ticket.
+Choose the seat.
+Put your member number or code for final price.
+Select your payment method.
+Input your card number or paypal id for payment.
+Check all details.
+Save the final confirmation.
+Download the ticket.
+Set a reminder for that day.
+ 

@@ -1,0 +1,14 @@
+0,*,INITIALIZE
+1,*,(slide window)
+2,*,(place plate window)
+3,*,(adjust length)
+4,*,(bolt plate)
+5,*,(close window)
+6,*,(attach pipe conditioner)
+7,*,(attach flat pipe)
+8,*,(extend pipe)
+9,*,(insert pipe plate)
+10,*,(plug point)
+11,*,(switch unit)
+12,*,(adjust temperature)
+13,*,FINISHED

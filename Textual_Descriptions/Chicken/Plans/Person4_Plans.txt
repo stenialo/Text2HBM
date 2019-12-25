@@ -1,0 +1,18 @@
+0,*,INITIALIZE
+1,*,(place breasts bottom)
+2,*,(add water pan)
+3,*,(add onion)
+4,*,(add carrot)
+5,*,(add celery)
+6,*,(add herbs)
+7,*,(add leaf)
+8,*,(add peppercorns)
+9,*,(add salt)
+10,*,(water boil)
+11,*,(simmer)
+12,*,(turn off heat)
+13,*,(cover pot)
+14,*,(keep chicken water)
+15,*,(remove chicken)
+16,*,(serve)
+17,*,FINISHED

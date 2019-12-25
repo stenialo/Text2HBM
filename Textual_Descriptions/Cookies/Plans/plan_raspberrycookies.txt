@@ -1,0 +1,16 @@
+0,*,INITIALIZE
+1,*,(heat oven)
+2,*,(mix butter)
+3,*,(mix sugar)
+4,*,(add eggs)
+5,*,(add vanilla)
+6,*,(combine flour bowl)
+7,*,(combine salt bowl)
+8,*,(combine soda bowl)
+9,*,(add ingredients)
+10,*,(stir chips)
+11,*,(fold raspberries)
+12,*,(put cookies sheet)
+13,*,(bake cookies)
+14,*,(cool cookies)
+15,*,FINISHED

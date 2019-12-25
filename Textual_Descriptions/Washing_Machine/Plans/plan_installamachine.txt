@@ -1,0 +1,12 @@
+0,*,INITIALIZE
+1,*,(choose spot)
+2,*,(measure area fit)
+3,*,(adjust leveling)
+4,*,(remove washer)
+5,*,(connect water)
+6,*,(setup hose)
+7,*,(try test-run)
+8,*,(check hoses)
+9,*,(switch off valve)
+10,*,(use pan)
+11,*,FINISHED

@@ -1,0 +1,10 @@
+0,*,INITIALIZE
+1,*,(mash banana dish)
+2,*,(add milk dish)
+3,*,(add spices dish)
+4,*,(stir)
+5,*,(dip bread mixture)
+6,*,(repeat)
+7,*,(place bread griddle)
+8,*,(cook)
+9,*,FINISHED

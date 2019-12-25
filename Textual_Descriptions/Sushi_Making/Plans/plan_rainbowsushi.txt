@@ -1,0 +1,12 @@
+0,*,INITIALIZE
+1,*,(wet hands)
+2,*,(spread rice)
+3,*,(place nori sheet)
+4,*,(spread wasabi)
+5,*,(add sushi)
+6,*,(roll sushi)
+7,*,(color roll top)
+8,*,(press toppings)
+9,*,(cut sushi)
+10,*,(serve)
+11,*,FINISHED

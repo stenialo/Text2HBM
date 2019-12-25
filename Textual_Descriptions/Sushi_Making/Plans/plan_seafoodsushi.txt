@@ -1,0 +1,16 @@
+0,*,INITIALIZE
+1,*,(cut seafood slices)
+2,*,(dip hands water)
+3,*,(take rice)
+4,*,(place wasabi fish)
+5,*,(place fish rice)
+6,*,(put wasabi rice)
+7,*,(shape items)
+8,*,(hold tuna hand)
+9,*,(hold rice hand)
+10,*,(press fish)
+11,*,(repeat process salmon)
+12,*,(repeat process shrimp)
+13,*,(garnish)
+14,*,(serve)
+15,*,FINISHED

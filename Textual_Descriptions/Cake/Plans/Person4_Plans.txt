@@ -1,0 +1,13 @@
+0,*,INITIALIZE
+1,*,(pick mug)
+2,*,(add sugar)
+3,*,(add extract)
+4,*,(add flour)
+5,*,(crack egg)
+6,*,(add butter)
+7,*,(add chocolate)
+8,*,(mix)
+9,*,(put mug microwave)
+10,*,(check cake)
+11,*,(come clean)
+12,*,FINISHED

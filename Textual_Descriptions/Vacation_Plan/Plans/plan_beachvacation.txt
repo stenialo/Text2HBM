@@ -1,0 +1,13 @@
+0,*,INITIALIZE
+1,*,(search discounts)
+2,*,(do comparison)
+3,*,(search agencies)
+4,*,(signup alerts travel)
+5,*,(choose location)
+6,*,(decide cheaper option)
+7,*,(search vacation packages)
+8,*,(find lodging)
+9,*,(cook food)
+10,*,(do activity beach)
+11,*,(travel season)
+12,*,FINISHED

@@ -1,0 +1,15 @@
+0,*,INITIALIZE
+1,*,(list interests)
+2,*,(define budget)
+3,*,(plan dates)
+4,*,(purchase tickets)
+5,*,(book accommodation)
+6,*,(plan activities)
+7,*,(get passport children)
+8,*,(travel destination plane)
+9,*,(drive vacation)
+10,*,(keep schedule open)
+11,*,(build memories family)
+12,*,(allow activities group)
+13,*,(plan time couple)
+14,*,FINISHED

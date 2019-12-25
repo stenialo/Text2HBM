@@ -1,0 +1,16 @@
+0,*,INITIALIZE
+1,*,(read instruction)
+2,*,(save instruction)
+3,*,(save warranty)
+4,*,(place conditioner window)
+5,*,(place conditioner outlet)
+6,*,(ensure tripping hazard)
+7,*,(determine adapter)
+8,*,(sealed gaps)
+9,*,(measure determine)
+10,*,(connect bracket)
+11,*,(run exhaust hose)
+12,*,(place bracket window)
+13,*,(secure exhaust hose)
+14,*,(plug conditioner)
+15,*,FINISHED

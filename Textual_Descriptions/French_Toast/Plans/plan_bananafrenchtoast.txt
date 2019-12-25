@@ -1,0 +1,12 @@
+0,*,INITIALIZE
+1,*,(make egg mixture)
+2,*,(combine milk blender)
+3,*,(combine egg blender)
+4,*,(combine banana blender)
+5,*,(combine vanilla blender)
+6,*,(heat skillet)
+7,*,(dip bread batter)
+8,*,(absorb bread mixture)
+9,*,(cook bread skillet)
+10,*,(garnish toast)
+11,*,FINISHED

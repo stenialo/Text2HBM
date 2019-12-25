@@ -1,0 +1,18 @@
+0,*,INITIALIZE
+1,*,(heat oven)
+2,*,(combine ingredients bowl)
+3,*,(add flour bowl)
+4,*,(add cocoa bowl)
+5,*,(add soda bowl)
+6,*,(add salt bowl)
+7,*,(add powder bowl)
+8,*,(mix butter bowl)
+9,*,(mix sugar bowl)
+10,*,(add eggs bowl)
+11,*,(mix)
+12,*,(scoop ingredients mixer)
+13,*,(line pan paper)
+14,*,(scoop dough paper)
+15,*,(flatten dough)
+16,*,(bake cookie)
+17,*,FINISHED

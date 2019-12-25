@@ -1,0 +1,15 @@
+0,*,INITIALIZE
+1,*,(set stove medium)
+2,*,(crack eggs bowl)
+3,*,(add milk)
+4,*,(add vanilla)
+5,*,(add cinnamon)
+6,*,(turn heat low)
+7,*,(heat pan)
+8,*,(dip bread mixture)
+9,*,(coat bread mixture)
+10,*,(place bread pan)
+11,*,(cook toast)
+12,*,(put toast plate)
+13,*,(ready)
+14,*,FINISHED

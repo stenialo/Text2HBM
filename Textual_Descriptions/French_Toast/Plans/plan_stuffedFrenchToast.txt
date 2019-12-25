@@ -1,0 +1,15 @@
+0,*,INITIALIZE
+1,*,(select bread)
+2,*,(slice bread)
+3,*,(combine ingredients bag)
+4,*,(stuff bread filling)
+5,*,(take bowl)
+6,*,(whisk eggs bowl)
+7,*,(whisk milk bowl)
+8,*,(whisk cinnamon bowl)
+9,*,(whisk vanilla bowl)
+10,*,(coat bread)
+11,*,(dip bread mixture)
+12,*,(cook pocket)
+13,*,(serve)
+14,*,FINISHED

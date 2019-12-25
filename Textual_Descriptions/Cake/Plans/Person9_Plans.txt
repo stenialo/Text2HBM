@@ -1,0 +1,16 @@
+0,*,INITIALIZE
+1,*,(take bowl)
+2,*,(add flour)
+3,*,(add powder)
+4,*,(add powder)
+5,*,(whisk)
+6,*,(add milk)
+7,*,(add oil mix)
+8,*,(whisk batter) 
+9,*,(pour batter mug)
+10,*,(add chocolate)
+11,*,(place towel microwave)
+12,*,(set mug)
+13,*,(microwave mug high)
+14,*,(remove)
+15,*,FINISHED

@@ -1,0 +1,13 @@
+0,*,INITIALIZE
+1,*,(consider locations mountains)
+2,*,(consider activities mountain)
+3,*,(choose time season)
+4,*,(pack gears)
+5,*,(aware wildlife)
+6,*,(aware mountain)
+7,*,(stay days place)
+8,*,(meet locals)
+9,*,(relax lot)
+10,*,(take photos)
+11,*,(enjoy)
+12,*,FINISHED

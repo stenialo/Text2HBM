@@ -1,0 +1,13 @@
+0,*,INITIALIZE
+1,*,(prepare sushi rice)
+2,*,(purchase nori)
+3,*,(prepare ingredients)
+4,*,(prepare fillings)
+5,*,(choose fish)
+6,*,(choose meat)
+7,*,(choose vegetables)
+8,*,(choose condiments)
+9,*,(arrange settings)
+10,*,(allow sushi)
+11,*,(serve)
+12,*,FINISHED

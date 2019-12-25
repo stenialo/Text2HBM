@@ -1,0 +1,12 @@
+0,*,INITIALIZE
+1,*,(clean gasket)
+2,*,(clean seals)
+3,*,(turn washer hottest)
+4,*,(fill drum vinegar)
+5,*,(fill drum soda)
+6,*,(let cyclle full)
+7,*,(run cycle second)
+8,*,(clean dispensor)
+9,*,(clean filter)
+10,*,(clean others)
+11,*,FINISHED

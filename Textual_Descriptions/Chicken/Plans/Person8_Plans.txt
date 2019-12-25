@@ -1,0 +1,8 @@
+0,*,INITIALIZE
+1,*,(fahrenheit)
+2,*,(place chicken baking dish)
+3,*,(drizzle chicken oil)
+4,*,(season salt)
+5,*,(season pepper)
+6,*,(bake)
+7,*,FINISHED

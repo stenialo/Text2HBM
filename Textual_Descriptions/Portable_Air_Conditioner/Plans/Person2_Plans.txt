@@ -1,0 +1,16 @@
+0,*,INITIALIZE
+1,*,(place conditioner door)
+2,*,(place conditioner outlet)
+3,*,(read instructions)
+4,*,(save instructions)
+5,*,(save warranty)
+6,*,(ensure tripping hazard)
+7,*,(determine adapter)
+8,*,(sealed off gap)
+9,*,(measure door determine)
+10,*,(connect bracket exhaust hose)
+11,*,(run exhaust hose door)
+12,*,(place door bracket)
+13,*,(secure door connection)
+14,*,(plug conditioner)
+15,*,FINISHED

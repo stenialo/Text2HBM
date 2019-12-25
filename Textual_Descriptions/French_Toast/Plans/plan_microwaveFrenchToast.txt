@@ -1,0 +1,11 @@
+0,*,INITIALIZE
+1,*,(set bowl)
+2,*,(break eggs bowl)
+3,*,(soak bread mixture)
+4,*,(place bread microwave)
+5,*,(set microwave high)
+6,*,(flip bread)
+7,*,(continue microwave)
+8,*,(ready toast syrup)
+9,*,(add fruit)
+10,*,FINISHED
