@@ -2,7 +2,7 @@
 This project contains textual descriptions and the corresponding plans. The descriptions are meant for generating planning operators from texts, while the plans are used to test the generated models.
 
 
-#83 descriptions:
+# 83 descriptions:
 
 Cake -> 10 descriptions
 Chicken -> 10 descriptions
@@ -18,7 +18,7 @@ Vacation plan -> 3 descriptions
 Washing machine -> 5 descriptions
 
 
-#Folder structure: 
+# Folder structure: 
 
 -> Type of instruction
 	--> Plans
