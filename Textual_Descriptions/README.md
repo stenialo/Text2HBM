@@ -51,7 +51,7 @@ Folder "Refined_Text" contains a refinement of the original instructions from fo
 
 Folder "Refined_Text2" contains a refinement of the texts in folder "Refined_Text". As the data was collected by two persons, for some instructions the intermediate refinement was not kept, thus the final refinement is in folder "Refined_Text".  	
 
-#License
+# License
 
 This data is free to use for any purpose. If you write a paper using the data, please send an email to kristina.yordanova@text2hbm.org giving the citation. Please also include the following text in your acknowledgments section:
 
