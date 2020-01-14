@@ -56,3 +56,7 @@ Folder "Refined_Text2" contains a refinement of the texts in folder "Refined_Tex
 This data is free to use for any purpose. If you write a paper using the data, please send an email to kristina.yordanova@text2hbm.org giving the citation. Please also include the following text in your acknowledgments section:
 
 The data used in this paper was obtained from https://github.com/stenialo/Text2HBM and the data collection was funded by the German Research Foundation (DFG), grant number YO 226/1-1.
+
+# Documentation
+
+A technical report describing the collected dataset can be found at https://arxiv.org/abs/2001.04186. 
