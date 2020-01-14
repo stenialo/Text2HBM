@@ -61,16 +61,10 @@ This data is free to use for any purpose. If you write a paper using the data, p
 
 Please also cite the corresponding technical report in your publication: 
 
-@techreport{key,
-	Author = {Debajyoti Paul Chowdhury and Arghya Biswas and Tomasz Sosnowski and Kristina Yordanova},
-	Institution = {arXiv preprint},
-	Title = {Towards Evaluating Plan Generation Approaches with Instructional Texts},
-	Month = {January},
-	Year = {2020},
-	number = {arXiv:2001.04186},
-	Url = {https://arxiv.org/abs/2001.04186}
-}
 
+Debajyoti Paul Chowdhury, Arghya Biswas, Tomasz Sosnowski, and Kristina Yordanova. Towards Evaluating Plan Generation Approaches with Instructional Texts. arXiv preprint. arXiv:2001.04186. January 2020. https://arxiv.org/abs/2001.04186
+	
+	
 Please also include the following text in your acknowledgments section:
 
 The data used in this paper was obtained from https://github.com/stenialo/Text2HBM and the data collection was funded by the German Research Foundation (DFG), grant number YO 226/1-1.
