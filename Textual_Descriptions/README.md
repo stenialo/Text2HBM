@@ -51,12 +51,26 @@ Folder "Refined_Text" contains a refinement of the original instructions from fo
 
 Folder "Refined_Text2" contains a refinement of the texts in folder "Refined_Text". As the data was collected by two persons, for some instructions the intermediate refinement was not kept, thus the final refinement is in folder "Refined_Text".  	
 
-# License
-
-This data is free to use for any purpose. If you write a paper using the data, please send an email to kristina.yordanova@text2hbm.org giving the citation. Please also include the following text in your acknowledgments section:
-
-The data used in this paper was obtained from https://github.com/stenialo/Text2HBM and the data collection was funded by the German Research Foundation (DFG), grant number YO 226/1-1.
-
 # Documentation
 
 A technical report describing the collected dataset can be found at https://arxiv.org/abs/2001.04186. 
+
+# License
+
+This data is free to use for any purpose. If you write a paper using the data, please send an email to kristina.yordanova (at) text2hbm.org giving the citation. 
+
+Please also cite the corresponding technical report in your publication: 
+
+@techreport{key,
+	Author = {Debajyoti Paul Chowdhury and Arghya Biswas and Tomasz Sosnowski and Kristina Yordanova},
+	Institution = {arXiv preprint},
+	Title = {Towards Evaluating Plan Generation Approaches with Instructional Texts},
+	Month = {January},
+	Year = {2020},
+	number = {arXiv:2001.04186},
+	Url = {https://arxiv.org/abs/2001.04186}
+}
+
+Please also include the following text in your acknowledgments section:
+
+The data used in this paper was obtained from https://github.com/stenialo/Text2HBM and the data collection was funded by the German Research Foundation (DFG), grant number YO 226/1-1.
