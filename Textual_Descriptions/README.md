@@ -57,7 +57,7 @@ A technical report describing the collected dataset can be found at https://arxi
 
 # License
 
-This data is free to use for any purpose. If you write a paper using the data, please send an email to kristina.yordanova (at) text2hbm.org giving the citation. 
+This data is free to use for research purposes. If you write a paper using the data, please send an email to kristina.yordanova (at) text2hbm.org giving the citation. 
 
 Please also cite the corresponding technical report in your publication: 
 
